@@ -1,0 +1,22 @@
+
+
+body{
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    margin: 0 0 0 40px;
+}
+
+h1 {
+    margin-left: 200px;
+}
+
+div .class {
+    display: inline-block;
+    text-align: center;
+}
+
+ul {
+    margin: 10px;
+
+}
